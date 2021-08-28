@@ -1,0 +1,7 @@
+TestCases\Solutions.class
+TestCases\readEXel.class
+Utils\BaseTestClass.class
+TestCases\Login.class
+Utils\ExcelUtils.class
+Utils\PropertyHandler.class
+Utils\simple.class

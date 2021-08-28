@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test_suite" duration-ms="54808" started-at="2021-08-27T15:56:21 IST" finished-at="2021-08-27T15:57:16 IST">
+    <groups>
+    </groups>
+    <test name="Solution test" duration-ms="54808" started-at="2021-08-27T15:56:21 IST" finished-at="2021-08-27T15:57:16 IST">
+      <class name="TestCases.Solutions">
+        <test-method status="PASS" signature="InitDriver(java.lang.String,java.lang.String)[pri:0, instance:TestCases.Solutions@1e397ed7]" name="InitDriver" duration-ms="31628" started-at="2021-08-27T15:56:22 IST" data-provider="InitLogin" finished-at="2021-08-27T15:56:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manoj.jannu@softwareag.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Passw0rd@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitDriver -->
+        <test-method status="PASS" signature="solutionPageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Solutions@1e397ed7]" name="solutionPageTest" duration-ms="22389" started-at="2021-08-27T15:56:54 IST" data-provider="SolusionDataprovider" finished-at="2021-08-27T15:57:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[solution1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[I am creating new solution]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10.5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[statefulCluster]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[IS]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[WmBusinessRules]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solutionPageTest -->
+      </class> <!-- TestCases.Solutions -->
+    </test> <!-- Solution test -->
+  </suite> <!-- test_suite -->
+</testng-results>
