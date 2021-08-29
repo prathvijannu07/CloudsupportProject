@@ -48,7 +48,7 @@ public class Solutions extends BaseTestClass {
 		String MonitoringElement = PropertyHandler.getInstance().getValue("MonitoringElementXpath");
 		String createNewSolution = PropertyHandler.getInstance().getValue("CreateNewSolutionPath");
 		String createsolnFirst = PropertyHandler.getInstance().getValue("CreatesolnFirstXpath");
-		String createsolnsecond = PropertyHandler.getInstance().getValue("CreatesolnsecondXpath");
+		String createsolnsecond = PropertyHandler.getInstance().getValue("CreatesolnsecondXpath");ds
 		String createsolnThird = PropertyHandler.getInstance().getValue("CreatesolnThirdXpath");
 		String createsolnOK = PropertyHandler.getInstance().getValue("createsolnOKButton");
 		// ------------------------------------------------------------------------------------------------------------------//
